@@ -1,0 +1,13 @@
+.header {
+    padding: 10px;
+    text-align: left;
+    background: #202020d3;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+.tab {
+    margin-left: 40px;
+}
+.not-header {
+    background-color: rgba(34, 117, 69, 0.938);
+}
